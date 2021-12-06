@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "cross-app",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cross-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
